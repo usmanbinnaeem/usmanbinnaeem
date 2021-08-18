@@ -10,8 +10,7 @@
 
 My Github Stats:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=usmanbinnaeem&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanbinnaeem&show_icons=true&theme=dark) ----->  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanbinnaeem&layout=compact)](https://github.com/usmanbinnaeem/github-readme-stats)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?usmanbinnaeem=willianrod)](https://github.com/usmanbinnaeem/github-readme-stats)
 
